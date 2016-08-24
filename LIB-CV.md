@@ -11,8 +11,8 @@ wwconlin@gmail.com
 919.632.3983
 -------------------
 
-Education
----------
+#####   Education
+
 
 2013-Aug 2016 (ABD)
 :   **PhD, Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art. *Minor: Digital Art*
@@ -24,17 +24,23 @@ Education
 2011
 :   **BM, Woodwind Performance: Saxophone**; UNC School of the Arts, Winston Salem, NC
 
-Employment & Teaching
----------------------
-2016
+##### Employment & Teaching
+
+2016 January-August 11th
 :   **LSU Libraries, GA** Technology Initiatives, Middleton Library Room 5
 
 2015
 :   **Assistant Instructor** Introduction to Electronic Music (LSU; MUS 3745)
   21 Undergraduate and Graduate Students LSU CMDA, Lectures & lab instruction
 
-2012-2015
-:   **LSU CMDA, GA, Digital Media Lab Coordinator** Managed 3-7 student workers, assisted students faculty and staff with computer training & equipment checkout, post-production of video, DAW training, recording practices,
+2015-2016
+: **Camp Instructor**, *Programming Music*; LSU Center for Computational Technology (CCT); (2016 as volunteer)
+January 2015
+:   **Student Worker** LSU CCT; Adobe Premier Editor
+:   **LSU CERA Storms Mobile Application** Student Worker under Lead Programmer Danny Holmes
+
+2012-May 2015
+:   **GA, Digital Media Lab Coordinator**; LSU CMDA: Managed 3-7 student workers, assisted students faculty and staff with computer training & equipment checkout, post-production of video, DAW training, recording practices,
 
 2011-2015
 :   **LSU Performing Arts Academy (PAA) Instructor & Camp Counselor**:
@@ -51,19 +57,15 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 [//]: <> (2012: pres.  Archival videography and selected post-production of over 14 CMDA  productions)
 [//]: <> (2010: UNCSA Career Development Grant)
 
-Publications & Contributions
----------------------------
+##### Publications & Contributions
 
 2015
 : **Tech Consultant**; *The Effects of Peer Coaching on Targeted Teaching Behaviors and Teacher Self-Efficacy in an Early Field Experience*, PHD Thesis of Deanna Kay Rice MA, MS. Defense Date set for July 7 2015. 
 
 2014
-: **Simplified Expressive Mobile Development with NexusOSC**: Proceedings of NIME: New Interfaces for Musical Expression, Goldsmiths University London, July
+: **Co-Author**; *Simplified Expressive Mobile Development with NexusOSC*: Proceedings of NIME: New Interfaces for Musical Expression, Goldsmiths University London, July
 
-
-
-Selected Multi-Media Projects
------------------------------
+##### Selected Multi-Media Projects
 
 2014
 : **Lead Interactive Programmer**; *TransPortal*; Sculptural Installation with Kinect & Live Video, EnOvation Grant Project (LSU) 
@@ -73,23 +75,22 @@ Selected Multi-Media Projects
 2013
 : *Misrepresentation*, Video Synthesizer programmed in Max/MSP/Jitter
 
-Technical Skills
-----------------
+##### Technical Skills
 
-**Interactive**: Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Unix
+**Interactive**: Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Unix, PHP, Linux
 
-**Static**: Finale, Sibelius, MuseScore, Lillypad, Gimp, Illustrator, Photoshop, HTML/CSS
+**Static**: Finale, Sibelius, MuseScore, Lillypad, Gimp, Illustrator, Photoshop, HTML/CSS, RST, Markdown
 
 **Time-Based**: Final Cut Pro, Logic Pro, StudioOne 2, CueStation
 
-**Miscellany**: Arduino, Raspberry Pi , Audio/Video Production
+**Miscellany**: Arduino, Raspberry Pi , Audio/Video Production, Haskell, 
 
-Workshops and Activities
-------------------------
+##### Workshops and Activities
+
 2015
 : **Assistant Chair of Concerts**; NIME 2015 Baton Rouge
 : **Open Improvisation Workshop**; X-Wave Festival, Houston TX
-: **Performance**; New Orleans Mini Maker Faire; On the Redaction of Musical Sounds by Andrew Pfalz
+: **Performance**; New Orleans Mini Maker Faire; *On the Redaction of Musical Sounds* by Andrew Pfalz
   
 2014
 : **Prospect.3** Baton Rouge: Sonic Gallery,  Curator for 4.1 Channel listening installation with interactive video art
