@@ -77,13 +77,10 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 ##### Technical Skills
 
-**Interactive**: Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Unix, PHP, Linux
-
-**Static**: Finale, Sibelius, MuseScore, Lillypad, Gimp, Illustrator, Photoshop, HTML/CSS, RST, Markdown
-
-**Time-Based**: Final Cut Pro, Logic Pro, StudioOne 2, CueStation
-
-**Miscellany**: Arduino, Raspberry Pi , Audio/Video Production, Haskell, 
+- **Interactive**: Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Unix, BASH, Linux , PHP, Common Lisp.
+- **Static**: Finale, Sibelius, MuseScore, Lillypad, Gimp, Illustrator, Photoshop, HTML/CSS, RST, Markdown.
+- **Time-Based**: Final Cut Pro, Logic Pro, StudioOne 2, CueStation.
+- **Miscellany**: Arduino, Raspberry Pi , Audio/Video Production, Haskell.
 
 ##### Workshops and Activities
 
