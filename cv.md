@@ -4,7 +4,7 @@ William Walker Conlin			Resume
 
 Education
 ABD	Experimental Music and Digital Media. Louisiana State University (LSU), College of 
-Music and Dramatic Arts (CMDA)  Baton Rouge (2013-?)
+Music and Dramatic Arts (CMDA)  Baton Rouge (May 2013- Aug 2016)
 MM 	Woodwind Performance, Saxophone. LSU 2013
 BM	Woodwind Performance: Saxophone. UNC School of the Arts , Winston Salem, NC
 
@@ -12,8 +12,8 @@ Employment & Teaching
 2016	LSU Libraries GA Technology Initiatives Library Systems
 2015	Introduction to Electronic Music (MUS 3745): Assistant Instructor with Zak Berkowitz
 	21 Undergraduate and Graduate Students LSU CMDA, Lectures & lab instruction
-2012-	Graduate Coordinator: Digital Media Lab LSU CMDA: Manages 3-7 student workers, assist
-2015	students faculty and staff with computer training & equipment checkout, post-production
+2012-2015	Graduate Coordinator: Digital Media Lab LSU CMDA: Manages 3-7 student workers, assist
+	students faculty and staff with computer training & equipment checkout, post-production
 of video, DAW training, recording practices,
 2011	LSU Performing Arts Academy (PAA) instructor, camp counselor:
 -Present	Individual lessons in Saxophone and Electro-Acoustic Composition (all ages)

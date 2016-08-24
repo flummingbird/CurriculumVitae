@@ -2,9 +2,9 @@
 561 East State St. Unit 19, LA 70803 | 919.632.3983 | wwconlin [   ] gmail 
 
 Education  
-	- ABD	Experimental Music and Digital Media PhD. Louisiana State University (LSU), College of Music and Dramatic Arts (CMDA) & LSU Center for Computational Technology (CCT) Baton Rouge (2013-?)  
-	- MM 	Woodwind Performance, Saxophone. LSU 2013  
-	- BM	Woodwind Performance: Saxophone. UNC School of the Arts , Winston Salem, NC  
+- ABD	Experimental Music and Digital Media PhD. Louisiana State University (LSU), College of Music and Dramatic Arts (CMDA) & LSU Center for Computational Technology (CCT) Baton Rouge (2013-?)  
+- MM 	Woodwind Performance, Saxophone. LSU 2013  
+- BM	Woodwind Performance: Saxophone. UNC School of the Arts , Winston Salem, NC  
 
 Employment & Teaching  
 2016
@@ -25,6 +25,8 @@ Employment & Teaching
 	 - 2011	Saxophone Instructor Jackson’s Music, Winston Salem, NC.  
 
 Publications, Contributions, Productions, & Grants  
+2016
+ 	- Programming Music Camp: Using Web Audio to Teach Creative Coding, Proceedings of Web Audio Conference (Paper)  
 2015
 	- Tech Consultant: The Effects of Peer Coaching on Targeted Teaching Behaviors and Teacher Self-Efficacy in an Early Field Experience PHD Thesis of Deanna Kay Rice LSU Curriculum and Instruction  
 2014
