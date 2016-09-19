@@ -75,5 +75,7 @@ Hackathon Workshop on NexusUI Proceedings of NIME , Goldsmiths University, July
 2012	Workshop on Algorithmic Computer Music (WACM) with David Cope, University of 
 California Santa Cruz, CA (Participant)
 
+Concert Curation
+2016 NSEME
 
 
