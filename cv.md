@@ -9,6 +9,7 @@ MM 	Woodwind Performance, Saxophone. LSU 2013
 BM	Woodwind Performance: Saxophone. UNC School of the Arts , Winston Salem, NC
 
 Employment & Teaching
+2016 (sept)	Computer Analyst II Middleton Library LSU 
 2016	LSU Libraries GA Technology Initiatives Library Systems
 2015	Introduction to Electronic Music (MUS 3745): Assistant Instructor with Zak Berkowitz
 	21 Undergraduate and Graduate Students LSU CMDA, Lectures & lab instruction
