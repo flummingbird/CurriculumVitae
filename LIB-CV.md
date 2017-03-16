@@ -1,13 +1,13 @@
 William Walker Conlin
 ============
 -------------------
-|
+#
 561 East State Street Unit 1,
 Baton Rouge,
 LA 70802
-|
+#
 wwconlin@gmail.com
-|
+#
 919.632.3983
 -------------------
 
@@ -77,12 +77,19 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 ##### Technical Skills
 
-- **Interactive**: Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Unix, BASH, Linux , PHP, Common Lisp.
+- **Interactive**: Vue.js, python3, Unix/Linux ,BASH, PHP, Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Common Lisp.
 - **Static**: Finale, Sibelius, MuseScore, Lillypad, Gimp, Illustrator, Photoshop, HTML/CSS, RST, Markdown.
 - **Time-Based**: Final Cut Pro, Logic Pro, StudioOne 2, CueStation.
 - **Miscellany**: Arduino, Raspberry Pi , Audio/Video Production, Haskell.
 
 ##### Workshops and Activities
+2017
+: **LSU Digital Humanites-Print Culture Site**; Vue.js, collaboration with design through CSS
+: **University of Alabama-Digitorium Conference for Digital Humanites** Attendee
+
+2016
+: **Louisiana Digital Library**; Data-Analyist, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal
+
 
 2015
 : **Assistant Chair of Concerts**; NIME 2015 Baton Rouge
