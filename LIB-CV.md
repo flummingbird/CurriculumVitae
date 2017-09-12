@@ -26,7 +26,7 @@ wwconlin@gmail.com
 
 ##### Employment & Teaching
 
-2018 December-present
+2016 December-2017 present
 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
 Tech used: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed
 Methodologies: Agile/Kahnban, ETL, CRUD, Pair Programming, 
