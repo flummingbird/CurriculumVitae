@@ -26,9 +26,7 @@ wwconlin@gmail.com;
 
 2016 Dec-2017 present
 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
-Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed,
-Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
-Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing and maintaining a Library oriented CMS (Islandora), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
+Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing and maintaining a Library oriented CMS (Islandora), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research. Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed; Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
 
 2016 January-December
 :   **LSU Libraries, GA** Tech Initiatives, ML
