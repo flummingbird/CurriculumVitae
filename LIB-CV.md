@@ -4,10 +4,8 @@ William Walker Conlin
 #
 561 East State Street Unit 1,
 Baton Rouge,
-LA 70802
-#
-wwconlin@gmail.com
-#
+LA 70802;
+wwconlin@gmail.com;
 919.632.3983
 -------------------
 
@@ -15,22 +13,24 @@ wwconlin@gmail.com
 
 
 2013-Aug 2016 (ABD)
-:   **PhD, Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art. *Minor: Digital Art*
+:   **PhD, Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
 
 
 2013
-:   **MM, Woodwind Performance, Saxophone**; LSU CMDA
+:   **MM Woodwind Performance, Saxophone**; LSU CMDA
 
 2011
-:   **BM, Woodwind Performance: Saxophone**; UNC School of the Arts, Winston Salem, NC
+:   **BM Woodwind Performance: Saxophone**; UNC School of the Arts, Winston Salem, NC
 
 ##### Employment & Teaching
 
-2016 December-2017 present
+2016 Dec-2017 present
 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
-Tech used: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed
-Methodologies: Agile/Kahnban, ETL, CRUD, Pair Programming, 
-Work: Act as part of a 7 member development/librarian team, to build and support a  digital library platform (Islandora), develop with team-members and Digital Scholarship Lab on selected digital projects.
+Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed,
+
+Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
+
+Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing and maintaining a Library oriented CMS (Islandora), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
 
 2016 January-December
 :   **LSU Libraries, GA** Tech Initiatives, ML
@@ -75,7 +75,7 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 2014
 : **Lead Interactive Programmer**; *TransPortal*; Sculptural Installation with Kinect & Live Video, EnOvation Grant Project (LSU) 
-: *FreedomSongs*; LSU FutureFest, Sonification of poems by non-gender conforming authors http://freedomsongsproject.wordpress.com/
+: *FreedomSongs*; LSU FutureFest, Sonification of poems by non-gender conforming authors 
 : *Water Song*; Theatre and Sound Project, Sound Design, and Lead iOS & Objective C Programmer (LSU)
 : **TwOscill** - IOS Application using NexusUI & LibPD (unpublilshed)
 2013
@@ -90,7 +90,7 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 ##### Workshops and Activities
 2017
-: **IslandoraCon Hamilton Ontario** Atendee
+: **IslandoraCon Hamilton Ontario** Attendee Dev Track
 : **LSU Digital Humanites-Print Culture Site**; Vue.js, collaboration with Digital Scholarship Lab's Poe Project.
 : **University of Alabama-Digitorium Conference for Digital Humanites** Attendee
 
