@@ -1,9 +1,7 @@
 William Walker Conlin
 ============
--------------------
-561 East State Street Unit 1,
-Baton Rouge,
-LA 70802 | wwconlin@gmail.com | 919.632.3983 
+--------------------
+561 East State Street Unit 1, Baton Rouge, LA 70802 | wwconlin@gmail.com | 919.632.3983
 -------------------
 
 #####   Education
