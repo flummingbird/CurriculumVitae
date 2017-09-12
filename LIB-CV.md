@@ -26,8 +26,14 @@ wwconlin@gmail.com
 
 ##### Employment & Teaching
 
-2016 January-August 11th
-:   **LSU Libraries, GA** Technology Initiatives, Middleton Library Room 5
+2018 December-present
+:  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
+Tech used: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed
+Methodologies: Agile/Kahnban, ETL, CRUD, Pair Programming, 
+Work: Act as part of a 7 member development/librarian team, to build and support a  digital library platform (Islandora), develop with team-members and Digital Scholarship Lab on selected digital projects.
+
+2016 January-December
+:   **LSU Libraries, GA** Tech Initiatives, ML
 
 2015
 :   **Assistant Instructor** Introduction to Electronic Music (LSU; MUS 3745)
@@ -77,18 +83,19 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 ##### Technical Skills
 
-- **Interactive**: Vue.js, python3, Unix/Linux ,BASH, PHP, Max/MSP/Jitter, Super Collider, PureData, Objective-C,Csound ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Common Lisp.
+- **Interactive**: PHP, Vue.js, python3, Unix/Linux , BASH, Max/MSP/Jitter, Super Collider, PureData, Objective-C, Csound, ChucK, JavaScript, Processing, Gibber, Tone.js, nexusUI, Common Lisp.
 - **Static**: Finale, Sibelius, MuseScore, Lillypad, Gimp, Illustrator, Photoshop, HTML/CSS, RST, Markdown.
 - **Time-Based**: Final Cut Pro, Logic Pro, StudioOne 2, CueStation.
 - **Miscellany**: Arduino, Raspberry Pi , Audio/Video Production, Haskell.
 
 ##### Workshops and Activities
 2017
-: **LSU Digital Humanites-Print Culture Site**; Vue.js, collaboration with design through CSS
+: **IslandoraCon Hamilton Ontario** Atendee
+: **LSU Digital Humanites-Print Culture Site**; Vue.js, collaboration with Digital Scholarship Lab's Poe Project.
 : **University of Alabama-Digitorium Conference for Digital Humanites** Attendee
 
 2016
-: **Louisiana Digital Library**; Data-Analyist, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal
+: **Louisiana Digital Library**; Data-Analyist, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal, ETL, CRUD, Develop Custom features to suit the needs of our constituents. 
 
 
 2015
