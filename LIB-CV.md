@@ -4,9 +4,8 @@ William Walker Conlin
 #
 561 East State Street Unit 1,
 Baton Rouge,
-LA 70802;
-wwconlin@gmail.com;
-919.632.3983
+LA 70802 | wwconlin@gmail.com | 919.632.3983 
+#
 -------------------
 
 #####   Education
@@ -26,7 +25,9 @@ wwconlin@gmail.com;
 
 2016 Dec-2017 present
 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
-Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing and maintaining a Library oriented CMS (Islandora), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research. Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed; Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
+Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed,
+Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
+Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing and maintaining a Library oriented CMS (Islandora), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
 
 2016 January-December
 :   **LSU Libraries, GA** Tech Initiatives, ML
