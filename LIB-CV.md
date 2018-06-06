@@ -7,9 +7,8 @@ William Walker Conlin
 #####   Education
 
 
-2013-Aug 2016 (ABD)
+2013-Aug 2016 (ABD --Withdrawn)
 :   **PhD, Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
-
 
 2013
 :   **MM Woodwind Performance, Saxophone**; LSU CMDA
@@ -19,14 +18,15 @@ William Walker Conlin
 
 ##### Employment & Teaching
 
-2016 Dec-2017 present
+2016 Dec-2018 present
 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
-Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed,
+Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed, linux
 Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
-Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing and maintaining a Library oriented CMS (Islandora), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
+Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing modules and maintaining our Islandora site (louisianadigitallibrary.org), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
 
 2016 January-December
-:   **LSU Libraries, GA** Tech Initiatives, ML
+:   **LSU Libraries, G.A.** Tech Initiatives, ML
+Duties: Migrate content into Islandora site, participate in development meetings, explore and share knowledge about Islandora
 
 2015
 :   **Assistant Instructor** Introduction to Electronic Music (LSU; MUS 3745)
@@ -34,6 +34,7 @@ Duties: Develop applications within the Library and Digital Scholarship Lab as m
 
 2015-2016
 : **Camp Instructor**, *Programming Music*; LSU Center for Computational Technology (CCT); (2016 as volunteer)
+
 January 2015
 :   **Student Worker** LSU CCT; Adobe Premier Editor
 :   **LSU CERA Storms Mobile Application** Student Worker under Lead Programmer Danny Holmes
@@ -46,17 +47,10 @@ January 2015
   Individual lessons in Saxophone and Electro-Acoustic Composition (all ages)
 Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
-[//]: <> (Commenting out more music related work, write regex to put back in.) 
-[//]: <> (2014 Fall Specialty DJ at 91.1FM KLSU, Sonic Art Collective Radio Show, volunteer)
-[//]: <> (2014  The Great Migration, short film by Margaret  Laurena Kemp, Post Production Audio)
-[//]: <> (2012    Sound design, editing, and foley: Night Herons, film by LSU CMDA Theatre Dept.)
-[//]: <> (2011: Baton Rouge Symphony Orchestra, Telemarketing )
-[//]: <> (2009-2011: Jackson’s Music, Winston Salem, NC. Saxophone Instructor)
-[//]: <> (2014-2015: **Sound Design & Post Production Editing**; MSA West Middle and High School, *A Midsummer Night’s Dream*, *Macbeth*; Plaquemine, LA)
-[//]: <> (2012: pres.  Archival videography and selected post-production of over 14 CMDA  productions)
-[//]: <> (2010: UNCSA Career Development Grant)
-
 ##### Publications & Contributions
+
+2016
+: **Co-Author**; *Programming Music Camp: Using Web Audio to Teach Creative Coding* Proceedings of Web Audio Conference (WAC) 2016
 
 2015
 : **Tech Consultant**; *The Effects of Peer Coaching on Targeted Teaching Behaviors and Teacher Self-Efficacy in an Early Field Experience*, PHD Thesis of Deanna Kay Rice MA, MS. Defense Date set for July 7 2015. 
@@ -89,7 +83,7 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 2016
 : **Louisiana Digital Library**; Data-Analyist, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal, ETL, CRUD, Develop Custom features to suit the needs of our constituents. 
-
+: **Award**; "Best Customized System" LUC (Louis Users Conference) October 2016 for work on Louisiana Digital Library.
 
 2015
 : **Assistant Chair of Concerts**; NIME 2015 Baton Rouge
@@ -109,8 +103,6 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 : *NexusUI Demo* - Proceedings of NIME , Goldsmiths University, July
 : *Hackathon Workshop on NexusUI* Proceedings of NIME , Goldsmiths University, July
 
-[//]: <>  (2013:  TEDxBroadway, conference attended as member of Pellar Entrepreneur)
-[//]: <> (2012  Arts Enterprise National Summit, Claremont, CA.  Attended as member of Pellar Entrepreneur)
 
 2012
 : **Workshop on Algorithmic Computer Music** (WACM) with David Cope, University of  California Santa Cruz, CA Participant; Lisp Programming
