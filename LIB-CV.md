@@ -7,8 +7,8 @@ William Walker Conlin
 #####   Education
 
 
-2013-Aug 2016 (ABD --Withdrawn)
-:   **PhD, Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
+2013-Aug 2016 (All but dissertation and no plans to finish. )
+:   **Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
 
 2013
 :   **MM Woodwind Performance, Saxophone**; LSU CMDA
