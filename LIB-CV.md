@@ -82,7 +82,7 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 : **University of Alabama-Digitorium Conference for Digital Humanites** Attendee
 
 2016
-: **Louisiana Digital Library**; Data-Analyist, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal, ETL, CRUD, Develop Custom features to suit the needs of our constituents. 
+: **Louisiana Digital Library**; Data-Analyst, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal, ETL, CRUD, Develop Custom features to suit the needs of our constituents. 
 : **Award**; "Best Customized System" LUC (Louis Users Conference) October 2016 for work on Louisiana Digital Library.
 
 2015
