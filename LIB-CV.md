@@ -20,9 +20,10 @@ William Walker Conlin
 
 2018-2022 :  **Data Analyst III: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
 Tech: Linux, Python3, mariaDB, postgreSQL, AWS CLI, Virtualization and containerization software: Docker, VirtualBox
-2016 Dec-2018 
-:  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
-Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed, linux
+Duties: Take over Systems analyst role, maintain updates, deploy software updates. Plan deployment and site migration of current digital library into a new digital library.
+
+2016 Dec-2018 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
+Tech: Islandora 7, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed, linux
 Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
 Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing modules and maintaining our Islandora site (louisianadigitallibrary.org), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
 
