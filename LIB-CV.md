@@ -7,7 +7,7 @@ William Walker Conlin
 #####   Education
 
 
-2013-Aug 2016 (All but dissertation and no plans to finish. )
+2013-Aug 2016 (PHD program, ABD)
 :   **Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
 
 2013
@@ -18,7 +18,9 @@ William Walker Conlin
 
 ##### Employment & Teaching
 
-2016 Dec-2018 present
+2018-2022 :  **Data Analyst III: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
+Tech: Linux, Python3, mariaDB, postgreSQL, AWS CLI, Virtualization and containerization software: Docker, VirtualBox
+2016 Dec-2018 
 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
 Tech: Islandora, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed, linux
 Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
@@ -37,7 +39,7 @@ Duties: Migrate content into Islandora site, participate in development meetings
 
 January 2015
 :   **Student Worker** LSU CCT; Adobe Premier Editor
-:   **LSU CERA Storms Mobile Application** Student Worker under Lead Programmer Danny Holmes
+:   **LSU CERA Storms Mobile Application** Student Worker under Lead Programmer Danny Holmes. GIS Software project.
 
 2012-May 2015
 :   **GA, Digital Media Lab Coordinator**; LSU CMDA: Managed 3-7 student workers, assisted students faculty and staff with computer training & equipment checkout, post-production of video, DAW training, recording practices,
