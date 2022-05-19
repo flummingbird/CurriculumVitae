@@ -18,17 +18,17 @@ William Walker Conlin
 
 ##### Employment & Teaching
 
-2018-2022 :  **Data Analyst III: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
+2018-2022 :  **Data Analyst III: Digital Projects Programmer** Technology Initiatives, LSU Library
 Tech: Linux, Python3, mariaDB, postgreSQL, AWS CLI, Virtualization and containerization software: Docker, VirtualBox
 Duties: Take over Systems analyst role, maintain updates, deploy software updates. Plan deployment and site migration of current digital library into a new digital library.
 
-2016 Dec-2018 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, Middleton Library (ML)
+2016 Dec-2018 :  **Data Analyst II: Digital Projects Programmer** Technology Initiatives, LSU Library
 Tech: Islandora 7, Drupal, PHP, Javascript, Vue.js, Python3, mySQL, bash, git, grep, sed, linux
 Methodologies: Agile/Kahnban, Pair Programming, OOP, ETL, CRUD
 Duties: Develop applications within the Library and Digital Scholarship Lab as member of the Tech Initiative Team. This included developing modules and maintaining our Islandora site (louisianadigitallibrary.org), as well as working with Graduate Students and faculty on designing SPA/websites to showcase research.
 
 2016 January-December
-:   **LSU Libraries, G.A.** Tech Initiatives, ML
+:   **LSU Libraries, G.A.** Tech Initiatives, LSU Library
 Duties: Migrate content into Islandora site, participate in development meetings, explore and share knowledge about Islandora
 
 2015
