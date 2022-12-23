@@ -4,18 +4,6 @@ William Walker Conlin
  wwconlin@gmail.com | 225.235.3200
 -------------------
 
-#####   Education
-
-
-2013-Aug 2016 (PHD program, ABD)
-:   **Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
-
-2013
-:   **MM Woodwind Performance, Saxophone**; LSU CMDA
-
-2011
-:   **BM Woodwind Performance: Saxophone**; UNC School of the Arts, Winston Salem, NC
-
 ##### Employment & Teaching
 
 2018-2022 :  **Data Analyst III: Digital Projects Programmer** Technology Initiatives, LSU Library
@@ -110,3 +98,17 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 
 2012
 : **Workshop on Algorithmic Computer Music** (WACM) with David Cope, University of  California Santa Cruz, CA Participant; Lisp Programming
+
+
+#####   Education
+
+
+2013-Aug 2016 (PHD program, ABD)
+:   **Experimental Music and Digital Media**; Louisiana State University, College of Music And Dramatic Art(CMDA). *Minor: Digital Art*
+
+2013
+:   **MM Woodwind Performance, Saxophone**; LSU CMDA
+
+2011
+:   **BM Woodwind Performance: Saxophone**; UNC School of the Arts, Winston Salem, NC
+
