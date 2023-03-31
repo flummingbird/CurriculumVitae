@@ -72,10 +72,11 @@ Chamber Winds Camp (ages 14-18), Sound Engineering Camp (ages 11-14)
 : **IslandoraCon Hamilton Ontario** Attendee Dev Track
 : **LSU Digital Humanites-Print Culture Site**; Vue.js, collaboration with Digital Scholarship Lab's Poe Project.
 : **University of Alabama-Digitorium Conference for Digital Humanites** Attendee
+: **Award**; "Best Customized System" LUC (Louis Users Conference) October 2017 for work on Louisiana Digital Library.
 
 2016
 : **Louisiana Digital Library**; Data-Analyst, Ingest/Migration, Bash and Python Scripting, PHP Module Development, Drupal, ETL, CRUD, Develop Custom features to suit the needs of our constituents. 
-: **Award**; "Best Customized System" LUC (Louis Users Conference) October 2016 for work on Louisiana Digital Library.
+
 
 2015
 : **Assistant Chair of Concerts**; NIME 2015 Baton Rouge
