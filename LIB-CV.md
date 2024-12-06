@@ -6,6 +6,11 @@ William Walker Conlin
 
 ##### Employment & Teaching
 
+2023 -2024:  **Analyst - Data Processing 3** nextSource https://www.nextsource.com/
+Tech: Linux servers and operating systems, python, php, bash 
+Virtualization and container software: Docker, VirtualBox, VMware.
+Duties: Manage and support digital Content Management System, Tech Support handling tickets, supervising junior developers.
+
 2018-2022 :  **Data Analyst III: Digital Projects Programmer** Technology Initiatives, LSU Library
 Tech: Linux, Python3, mariaDB, postgreSQL, AWS CLI, Drupal 8 & 9. 
 Virtualization and containerization software: Docker, VirtualBox, VMware.
