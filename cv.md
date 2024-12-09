@@ -1,6 +1,4 @@
 William Walker Conlin			Resume
-2800 July Street, Unit 19, LA 70803
-919.632.3983 / wwconlin@gmail.com
 
 Education
 ABD	Experimental Music and Digital Media. Louisiana State University (LSU), College of 
