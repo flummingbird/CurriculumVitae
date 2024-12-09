@@ -1,8 +1,9 @@
 # William Walker Conlin
-561 East State St. Unit 19, LA 70803 | 919.632.3983 | wwconlin [   ] gmail 
+wwconlin@gmail 
+225-235-3200
 
 Education  
-- ABD	Experimental Music and Digital Media PhD. Louisiana State University (LSU), College of Music and Dramatic Arts (CMDA) & LSU Center for Computational Technology (CCT) Baton Rouge (2013-?)  
+- ABD	Experimental Music and Digital Media PhD. Louisiana State University (LSU), College of Music and Dramatic Arts (CMDA) & LSU Center for Computational Technology (CCT) Baton Rouge 
 - MM 	Woodwind Performance, Saxophone. LSU 2013  
 - BM	Woodwind Performance: Saxophone. UNC School of the Arts , Winston Salem, NC  
 
